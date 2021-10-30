@@ -1,6 +1,22 @@
 ### Bonjour, It's me Arif <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I love to develop android mobile apps. Language that i use the most is Java and Kotlin. I use Android Studio to code it.
+I'm native Indonesian. Currently, I'm developing an android mobile application, using Java and Kotlin for the languages. Tools that i use is Android Studio. 
+
+### Technology and Stats
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=336791)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeToyek)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeToyek&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <a href="https://github.com/Ibrahimsyah/ibrahimsyah">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeToyek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" alt="ibrahimsyah's GitHub Values 🚀" />
+  </a>
+  
+  <a href="https://github.com/Ibrahimsyah/ibrahimsyah">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeToyek&hide=php,css,html, jupyter%20notebook&text_color=c9cacc&title_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&count_private=true" />
+  </a>
+
+  
+</div>
+
