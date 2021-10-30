@@ -3,3 +3,4 @@ I love to develop android mobile apps. Language that i use the most is Java and 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeToyek)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeToyek&show_icons=true&theme=radical)
