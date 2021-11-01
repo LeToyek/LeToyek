@@ -1,4 +1,4 @@
-### Bonjour, It's me Arif <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Bonjour, It's me Arif <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm native Indonesian. Currently, I'm developing an android mobile application, using Java and Kotlin for the languages. Tools that i use is Android Studio. 
 
 ### Technology and Stats
