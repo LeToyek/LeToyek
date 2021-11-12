@@ -13,7 +13,7 @@ I'm native Indonesian. Currently, I'm developing an android mobile application, 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeToyek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" alt="ibrahimsyah's GitHub Values 🚀" />
   </a>
   
-  <a href="https://github.com/Ibrahimsyah/ibrahimsyah">
+  <a href="https://github.com/LeToyek">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeToyek&hide=php,css,html, jupyter%20notebook&text_color=c9cacc&title_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&count_private=true" />
   </a>
 
