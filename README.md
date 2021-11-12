@@ -9,8 +9,8 @@ I'm native Indonesian. Currently, I'm developing an android mobile application, 
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <a href="https://github.com/Ibrahimsyah/ibrahimsyah">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeToyek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" alt="ibrahimsyah's GitHub Values 🚀" />
+  <a href="https://github.com/LeToyek">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeToyek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" alt="LeToyek's GitHub Values 🚀" />
   </a>
   
   <a href="https://github.com/LeToyek">
