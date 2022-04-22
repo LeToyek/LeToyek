@@ -7,6 +7,7 @@ I'm native Indonesian. Currently, I'm developing an android mobile application, 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=FFAB4C)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=AE4CCF)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=0095D5)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=0095D5)
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
