@@ -1,5 +1,5 @@
 ## Bonjour, It's me Arif <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm native Indonesian. Currently, I'm developing an android mobile application, using Java and Kotlin for the languages. Tools that i use is Android Studio. 
+I'm from Indonesia. Currently studying web development and multi platform mobile app development.
 
 ### Technology and Stats
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=Windows&logoColor=white&color=99FEFF)
