@@ -8,6 +8,7 @@ I'm from Indonesia. Currently studying web development and multi platform mobile
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=AE4CCF)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=0095D5)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=0095D5)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=blueviolet)
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
