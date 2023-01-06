@@ -15,6 +15,8 @@ I'm from Indonesia. Currently studying web development and multi platform mobile
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeToyek&show_icons=true&theme=radical" alt="LeToyek's GitHub Values 🚀" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeToyek&theme=radical"/>
 </div>
 
