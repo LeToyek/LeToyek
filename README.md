@@ -19,4 +19,3 @@ I'm from Indonesia. Currently studying web development and multi platform mobile
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeToyek&theme=radical"/>
 </div>
-
