@@ -11,7 +11,7 @@ I'm from Indonesia. Currently studying web development and multi platform mobile
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=eb4634)
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=177cff)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=177cff)
-![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=purple)
 
 
 
